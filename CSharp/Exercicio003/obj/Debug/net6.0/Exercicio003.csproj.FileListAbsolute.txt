@@ -1,0 +1,15 @@
+C:\Users\adalb\Documents\GitHub\exercicios\CSharp\Exercicio003\bin\Debug\net6.0\Exercicio003.exe
+C:\Users\adalb\Documents\GitHub\exercicios\CSharp\Exercicio003\bin\Debug\net6.0\Exercicio003.deps.json
+C:\Users\adalb\Documents\GitHub\exercicios\CSharp\Exercicio003\bin\Debug\net6.0\Exercicio003.runtimeconfig.json
+C:\Users\adalb\Documents\GitHub\exercicios\CSharp\Exercicio003\bin\Debug\net6.0\Exercicio003.dll
+C:\Users\adalb\Documents\GitHub\exercicios\CSharp\Exercicio003\bin\Debug\net6.0\Exercicio003.pdb
+C:\Users\adalb\Documents\GitHub\exercicios\CSharp\Exercicio003\obj\Debug\net6.0\Exercicio003.csproj.AssemblyReference.cache
+C:\Users\adalb\Documents\GitHub\exercicios\CSharp\Exercicio003\obj\Debug\net6.0\Exercicio003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adalb\Documents\GitHub\exercicios\CSharp\Exercicio003\obj\Debug\net6.0\Exercicio003.AssemblyInfoInputs.cache
+C:\Users\adalb\Documents\GitHub\exercicios\CSharp\Exercicio003\obj\Debug\net6.0\Exercicio003.AssemblyInfo.cs
+C:\Users\adalb\Documents\GitHub\exercicios\CSharp\Exercicio003\obj\Debug\net6.0\Exercicio003.csproj.CoreCompileInputs.cache
+C:\Users\adalb\Documents\GitHub\exercicios\CSharp\Exercicio003\obj\Debug\net6.0\Exercicio003.dll
+C:\Users\adalb\Documents\GitHub\exercicios\CSharp\Exercicio003\obj\Debug\net6.0\refint\Exercicio003.dll
+C:\Users\adalb\Documents\GitHub\exercicios\CSharp\Exercicio003\obj\Debug\net6.0\Exercicio003.pdb
+C:\Users\adalb\Documents\GitHub\exercicios\CSharp\Exercicio003\obj\Debug\net6.0\Exercicio003.genruntimeconfig.cache
+C:\Users\adalb\Documents\GitHub\exercicios\CSharp\Exercicio003\obj\Debug\net6.0\ref\Exercicio003.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adalb\\Documents\\GitHub\\exercicios\\CSharp\\ConsoleApp1\\Exercicio001.csproj",
-      "projectName": "Exercicio001",
-      "projectPath": "C:\\Users\\adalb\\Documents\\GitHub\\exercicios\\CSharp\\ConsoleApp1\\Exercicio001.csproj",
+      "projectUniqueName": "C:\\Users\\adalb\\Documents\\GitHub\\exercicios\\CSharp\\Exercicio003\\Exercicio003.csproj",
+      "projectName": "Exercicio003",
+      "projectPath": "C:\\Users\\adalb\\Documents\\GitHub\\exercicios\\CSharp\\Exercicio003\\Exercicio003.csproj",
       "packagesPath": "C:\\Users\\adalb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adalb\\Documents\\GitHub\\exercicios\\CSharp\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\adalb\\Documents\\GitHub\\exercicios\\CSharp\\Exercicio003\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adalb\\AppData\\Roaming\\NuGet\\NuGet.Config",
