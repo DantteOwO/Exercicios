@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ConsoleApp1",
+    "\\Exercicio004",
+    "\\Exercicio005"
   ],
-  "SelectedNode": "\\C:\\Users\\adalb\\Documents\\GitHub\\exercicios\\CSharp",
+  "SelectedNode": "\\Exercicio004\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
