@@ -7,6 +7,8 @@ class Programa
     {
 
         Console.WriteLine("Hello, World");
+        Console.WriteLine("tecle enter para sair");
+        Console.ReadLine();
 
     }
 
