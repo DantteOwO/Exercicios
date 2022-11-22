@@ -12,4 +12,5 @@ print('{} x {:2} = {}'.format(numero, 9, numero*9))
 print('{} x {} = {}'.format(numero, 10, numero*10))
 print('_' * 12)
 
+#DIGITE UM NUMEROM PARA DESCOBRIR A SUA TABOADA
 
